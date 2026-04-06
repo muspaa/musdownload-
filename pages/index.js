@@ -277,8 +277,6 @@ export default function Home() {
         </section>
       )}
       
-      )}
-
       <footer className="footer">
         <p>© {new Date().getFullYear()} {DEV_NAME} • Soft UI Edition</p>
       </footer>
